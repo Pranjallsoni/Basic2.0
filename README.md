@@ -32,12 +32,8 @@ The sum of numbers from 1 to 50 is: 1275
 🚀 How to Run
 Make sure you have Python 3 installed on your system.
 
-Clone this repository:
-git clone https://github.com/your-username/repo-name.git
-
 Navigate to the project directory:
 cd repo-name
-
 
 Run the Python script:
 python filename.py
